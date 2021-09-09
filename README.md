@@ -1,5 +1,4 @@
 # hello-world
-Getting Started
+**  3rd rev. **
 
-Just started!!!!!
-4649
+SAMPLE FILE ONLY.
